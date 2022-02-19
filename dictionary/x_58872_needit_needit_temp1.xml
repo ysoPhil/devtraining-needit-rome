@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_temp1" max_length="40" name="x_58872_needit_needit_temp1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=number" label="number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=priority" label="priority" max_length="40" name="u_priority" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_requested_for" label="Requested for" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_request_type" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_short_description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=state" label="state" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_what_needed" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_when_needed" label="When needed" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>

@@ -4,27 +4,13 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-14 17:19:42</sys_created_on>
-            <sys_id>dee71eef1b210110db66639bbc4bcb51</sys_id>
+            <sys_created_on>2022-02-19 00:10:02</sys_created_on>
+            <sys_id>5c3c10c51b710510db66639bbc4bcbf1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">46e71eef1b210110db66639bbc4bcb05</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-14 17:19:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-14 17:19:42</sys_created_on>
-            <sys_id>52e71eef1b210110db66639bbc4bcb52</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">46e71eef1b210110db66639bbc4bcb05</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-14 17:19:42</sys_updated_on>
+            <sys_updated_on>2022-02-19 00:10:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
